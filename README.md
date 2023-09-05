@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andy Rodríguez (@androdl96)
 - 🎓 Telecom Engineer, Technological University of Havana
-- 🎓 Master Master in Physical Sciences, University of Havana
+- 🎓 Master in Physical Sciences, University of Havana
 - 🌱 I’m currently PhD student at Ceit, University of Navarra
 - 👀 I’m interested in Statistics, Machine Learning, Digital Signal Processing, Digital Electronics
 - 📫 To reach me androdl96@gmail.com
